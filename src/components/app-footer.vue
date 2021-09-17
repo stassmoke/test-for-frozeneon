@@ -12,8 +12,8 @@
         >
 
             <div class="footer-desc">
-                <a class="footer-link" href="#">Git</a>
-                <a class="footer-link" href="https://telegram.im/@k_stanislav1">Telegram</a>
+                <a class="footer-link" href="https://github.com/stassmoke/test-for-frozeneon" target="_blank">Git</a>
+                <a class="footer-link" href="https://telegram.im/@k_stanislav1" target="_blank">Telegram</a>
                 <div class="footer-dev__name">Stanislav Kulynych</div>
                 <div class="img-holder footer-dev__img">
                     <img src="../../public/img/dev-img.jpg" alt="">
